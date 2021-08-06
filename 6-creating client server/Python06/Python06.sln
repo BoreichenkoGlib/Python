@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "server", "server\server.pyproj", "{B38A765C-4C26-486F-9DFD-183C735E51D5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "client", "client\client.pyproj", "{0A6E5BDC-57B7-4B1A-9F77-A21607B939C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B38A765C-4C26-486F-9DFD-183C735E51D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38A765C-4C26-486F-9DFD-183C735E51D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6E5BDC-57B7-4B1A-9F77-A21607B939C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6E5BDC-57B7-4B1A-9F77-A21607B939C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00D7F5F2-9BE6-42E0-AC31-1B8DF0F7E365}
+	EndGlobalSection
+EndGlobal
